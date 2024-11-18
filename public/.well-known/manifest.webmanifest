@@ -1,9 +1,9 @@
 {
   "id": "/",
-  "short_name": "IWA KS",
-  "name": "Kitchen Sink IWA",
-  "version": "0.0.0",
-  "update_manifest_url": "https://github.com/chromeos/iwa-sink/releases/latest/download/update.json",
+  "short_name": "IWA KS-C",
+  "name": "Kitchen Sink IWA - chinav",
+  "version": "0.0.1",
+  "update_manifest_url": "https://github.com/vishr9/iwa-sink/raw/main/artifacts/update_manifest_url.json",
   "icons": [
     {
       "src": "/images/icon.png",
